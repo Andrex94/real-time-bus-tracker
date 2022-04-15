@@ -1,6 +1,6 @@
 # Real-Time Bus Tracker Project
 
-> Live data of Boston Transit - Project for Week 9 MIT Full Stack Development
+> Live data of Boston Transit - Project for Week 9 MITxPro Full Stack Development.
 
 ## Description
 
