@@ -8,7 +8,7 @@ This project tracks the current location of MBTA BUS Route 1 between MIT and Har
 
 ## How to Run
 
-It can be view live at https://github.com/Andrex94/real-time-bus-tracker
+It can be view live at https://andrex94.github.io/real-time-bus-tracker/
 
 ## Roadmap of Future Improvements
 
